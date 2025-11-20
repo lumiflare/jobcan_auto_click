@@ -1,6 +1,16 @@
 # Jobcan Automation
 
-This script automates the process of clicking "Clock Out" (退勤) at 12:00 and "Clock In" (出勤) at 13:00 on Jobcan.
+This script automates the process of clicking "Clock Out" at 12:00 and "Clock In" at 13:00 on Jobcan.
+
+This project is created by Gemini3(Antigravity AI) with vibecoding.
+
+
+## Motivation
+
+This project was created to automate the recording of lunch breaks in a full-flex work environment with no core hours.
+
+Under Japanese labor law, taking at least a 1-hour break is mandatory when working more than 8 hours. 
+Although I work over 8 hours every day and take a break of at least 1 hour, manually recording this break time every day is tedious and easy to forget, so I automated this process.
 
 ## Setup Credentials
 
